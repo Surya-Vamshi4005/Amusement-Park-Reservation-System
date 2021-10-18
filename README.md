@@ -7,7 +7,7 @@ The operations are to be specified in the given .dat file.
 
 ## Usage 🚀
 Specify the number of tickets available for a single day.
->- To book a ticket : \
+>To book a ticket : \
 >Format = <1> \<date of visit\> \<name of person\> \
 To change the date of visit : \
 Format = <2> \<old date\> \<new date\> \<name of person\> \
