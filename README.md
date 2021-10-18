@@ -14,7 +14,7 @@ Format = <2> \<old date\> \<new date\> \<name of person\>
 >To cancel the ticket : \
 >Format = <3> \<date of visit\> \<name of person\>
 To show the ticket details of all visitors on a day : \
-Format = <4> \<date of that day\>
+Format = <4> \<date of that day\> \
 >To exit from the system : \
 >Format = <5>
 
